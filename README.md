@@ -56,18 +56,16 @@ Tabulation:1
 
 Cross connection: CIRCUIT DIAGRAM:
 
-<br>
-![2-3](https://github.com/user-attachments/assets/dd425bdc-49a0-47ed-9000-6d09056257ee)
-</br>
+![2-3](https://github.com/user-attachments/assets/9d16fcb5-034a-4e78-90d4-859786d25654)
+
+
 <br>
 <img width="1107" height="889" alt="Screenshot 2026-03-19 220024" src="https://github.com/user-attachments/assets/e303ee63-10da-4ecc-8328-d98b8675889a" />
 </br>
 
 Tabulation:2
 
-<br>
-![2-4](https://github.com/user-attachments/assets/9a980224-609d-4aa4-bdaf-f5a4132846de)
-</br>
+![2-4](https://github.com/user-attachments/assets/6c0de344-514b-4d6b-a82f-75fb09424c8d)
 
 
 RESULT:
